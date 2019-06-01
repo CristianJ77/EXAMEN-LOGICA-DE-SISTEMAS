@@ -14,7 +14,6 @@ Cajadetex=Entry(miFrame)
 Cajadetex.place(x="15", y="100")
 LabelPre=Label(miFrame,text="                                                                                                                                                                                       ")
 LabelPre.place(x="10", y="25")
-Cajadetex.Entry(print("Ingrese primer numero")
 
 
 
